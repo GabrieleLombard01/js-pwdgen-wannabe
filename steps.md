@@ -10,4 +10,4 @@
 6. Salvare il colore in una variabile
 7. Salvare la stringa 21 in una variabile
 8. Costruire il messaggio da vedere in pagina
-9. Stampo il messaggio da vedere in pagina nel DOM.
+9. Recupero un elemento dalla pagina
