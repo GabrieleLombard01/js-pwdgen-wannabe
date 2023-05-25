@@ -16,3 +16,6 @@ console.log(color)
 let passNumber = 21
 console.log(passNumber)
 
+//Costruire il messaggio da vedere in pagina
+const message = 'La tua password è' + ' ' + name + surname + color + passNumber
+console.log(message);
