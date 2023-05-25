@@ -20,5 +20,5 @@ console.log(passNumber)
 const message = 'La tua password è' + ' ' + name + surname + color + passNumber
 console.log(message);
 
-//Recupero un elemento dalla pagina
-document.getElementById('message')
+//Stampo il messaggio da vedere in pagina nel DOM
+document.getElementById('message').innerText = message;
